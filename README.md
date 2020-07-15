@@ -1,9 +1,9 @@
 #**Python Lessons for Hamid and Joe**
-##Python lessons
-###*Week 1:*
-•	Built-in functions and importing modules.
-•	Documentation is everything! (and StackOverflow).
-•	Command prompt and IDEs.
+##Python lessons<br/>
+###*Week 1:*<br/>
+•	Built-in functions and importing modules.<br/>
+•	Documentation is everything! (and StackOverflow).<br/>
+•	Command prompt and IDEs.<br/>
 •	Different types of Pythonic variables/data types, such as, string, integers, floats, complex, bools
 •	Different types of Pythonic objects, such as, lists, dictionaries, tuples.
 •	Numpy arrays and Pandas DataFrames.
