@@ -1,7 +1,7 @@
 # **Python Lessons for Hamid and Joe**<br/>
 ## Python lessons<br/>
 <br/>
-### Week 1:<br/>
+###  Week 1:<br/>
 •	Built-in functions and importing modules.<br/>
 •	Documentation is everything! (and StackOverflow).<br/>
 •	Command prompt and IDEs.<br/>
@@ -9,12 +9,12 @@
 •	Different types of Pythonic objects, such as, lists, dictionaries, tuples.<br/>
 •	Numpy arrays and Pandas DataFrames.<br/>
 <br/>
-### Week 2:<br/>
+###  Week 2:<br/>
 •	Lists: indexing, built-in list functions, iterating.<br/>
 •	Iterating: for and while loops.<br/>
 •	Functions: created basic functions. <br/>
 <br/>
-#### Homework: <br/>
+####  Homework: <br/>
 1.	YouTube tutorials and documentation on for and while loops.<br/>
 2.	YouTube tutorials and documentation on Pythonic functions<br/>
 3.	Documentation for Python data type list<br/>
